@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL fiels
+__pycache__/
+*.py[cod]
+*$py.class
+
+#C extensions
+*.so
+
+#Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+bib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+# .DS_Store
+.DS_Store
+
+
+
+
+
