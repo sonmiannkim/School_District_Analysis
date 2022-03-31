@@ -23,29 +23,41 @@ It was quite a jouney, but ultimately met a goal where the developer was able to
 It was difficult to find a function that is suitable for the imagination.  Sometimes finding the right function took more than coding and had to justify it as a learning process.  However, in the end, it was a great feeling going through the journey again.  Many methods, such as isnull() counts or split() strip() were already forgotten at the end of the project, and redoing the projects reminded a lot of it, although it looked like brand new information.
 
 - How is the district summary affected?
-#### The data showed no differences after the Thomas High School's Scores Correction
-<ul>
- <li>District Summary in PyCitySchools Before Thomas High School Score Correction</li>
-  ![District Summary in PyCitySchools](/../main/resources/District_Summary_Before_TH.PNG)
+#### The data showed no differences before / after the Thomas High School's Scores Correction (see below)
 
- <li>District Summary in PyCitySchools After Thomas High School Score Correction </li>
- ![District Summary in PyCitySchools - Challenges](/../main/resources/District_Summary_After_TH.PNG)
-</ul>
+
+-District Summary in PyCitySchools Before Thomas High School Score Correction
+
+![District Summary Before](resources/District_Summary_Before_TH.PNG)
+
+-District Summary in PyCitySchools After Thomas High School Score Correction
+
+![District Summary After](/resources/District_Summary_After_TH.PNG)
+
+
+
+
 
 - How is the school summary affected?
-#### The Thomas High School's Scores Correction made slightly different math/Reading Average scores.
+#### The Thomas High School's Scores Correction made slightly different math/Reading on scores and Average scores. (see below)
 However there wasn't much differences in ratings.  The Thomas High School still remained #2 among other schools.
-<ul>
-<li>School Summary in PyCitySchools Before Thomas High School Score Correction</li>
-![School Summary (Top 5) in PyCitySchools](/../main/resources/School_Summary_Top5_before_TH.PNG)
 
- <li>School Summary in PyCitySchools After Thomas High School Score Correction</li>
- ![School Summary (Top 5) in PyCitySchools - Challanges ](/../main/resources/School_Summary_Top5_after_TH.PNG)
-</ul>
+School Summary in PyCitySchools Before Thomas High School Score Correction
+
+![School Summary (Top 5) Before](/resources/School_Summary_Top5_before_TH.PNG)
+
+![Thomas High School Summary Before](/resources/ThomasH_Summary_Before_TH.PNG)
+
+School Summary in PyCitySchools After Thomas High School Score Correction
+
+![School Summary (Top 5) After](/resources/School_Summary_Top5_after_TH.PNG)
+
+![Thomas High School Summary Before](/resources/ThomasH_Summary_After_TH.PNG)
+
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-#### The data showed there wasn't much differences in the scores although the actual calcuation excluded nith graders.  
-#### Still the Thomas High School still remained #2 among other schools.
+#### The data showed there wasn't much differences in the scores although the actual calcuation excluded nith graders as an NaN. 
+#### Still the Thomas High School still remained #2 among other schools. (see above sorted list)
 
 
 ## Summary
