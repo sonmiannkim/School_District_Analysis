@@ -46,13 +46,13 @@ School Summary in PyCitySchools Before Thomas High School Score Correction
 
 ![School Summary (Top 5) Before](/resources/School_Summary_Top5_before_TH.PNG)
 
-![Thomas High School Summary Before](/resources/ThomasH_Summary_Before_TH.PNG)
+![Thomas High School Summary Before](/resources/ThomasH_Summary_Before_ToH.PNG)
 
 School Summary in PyCitySchools After Thomas High School Score Correction
 
 ![School Summary (Top 5) After](/resources/School_Summary_Top5_after_TH.PNG)
 
-![Thomas High School Summary Before](/resources/ThomasH_Summary_After_TH.PNG)
+![Thomas High School Summary Before](/resources/ThomasH_Summary_After_ToH.PNG)
 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
